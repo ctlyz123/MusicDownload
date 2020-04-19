@@ -1,0 +1,13 @@
+{
+  "Url": {
+    "Main_url": "https://mp3quack.com",
+    "Mid_url": "https://mp3pro.xyz"
+
+  },
+  "Dir": {
+    "Save_Path": "Music"
+  },
+  "File":{
+    "MusicList": "Config/MusicList"
+}
+}
